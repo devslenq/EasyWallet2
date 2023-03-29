@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="brand_accent_dark">#689F38</color>
+    <color name="brand_accent_light">#DCEDC8</color>
+    <color name="brand_accent_primary">#8BC34A</color>
+    <color name="brand_accent_primary_text">#212121</color>
+    <color name="brand_accent_primary_text_secondary">#757575</color>
+    <color name="brand_accent">#FFC107</color>
+    <color name="brand_accent_divider">#BDBDBD</color>
+</resources>

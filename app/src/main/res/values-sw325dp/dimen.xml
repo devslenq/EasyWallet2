@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="reorder_dimen_for_small_screen">460dp</dimen>
+
+    <!-- 80 % from normal -->
+    <dimen name="normal_500dp">400dp</dimen>
+    <dimen name="normal_475dp">380dp</dimen>
+    <dimen name="normal_436dp">349dp</dimen>
+    <dimen name="normal_420dp">336dp</dimen>
+    <dimen name="normal_360dp">288dp</dimen>
+    <dimen name="normal_350dp">280dp</dimen>
+    <dimen name="normal_340dp">272dp</dimen>
+    <dimen name="normal_320dp">256dp</dimen>
+    <dimen name="normal_300dp">240dp</dimen>
+    <dimen name="normal_265dp">212dp</dimen>
+    <dimen name="normal_260dp">208dp</dimen>
+    <dimen name="normal_230dp">184dp</dimen>
+    <dimen name="normal_200dp">160dp</dimen>
+    <dimen name="normal_190dp">152dp</dimen>
+    <dimen name="normal_180dp">144dp</dimen>
+    <dimen name="normal_170dp">136dp</dimen>
+    <dimen name="normal_160dp">128dp</dimen>
+    <dimen name="normal_150dp">120dp</dimen>
+    <dimen name="normal_146dp">117dp</dimen>
+    <dimen name="normal_135dp">108dp</dimen>
+    <dimen name="normal_120dp">96dp</dimen>
+    <dimen name="normal_105dp">84dp</dimen>
+    <dimen name="normal_96dp">77dp</dimen>
+    <dimen name="normal_90dp">72dp</dimen>
+    <dimen name="normal_85dp">68dp</dimen>
+    <dimen name="normal_80dp">64dp</dimen>
+    <dimen name="normal_75dp">60dp</dimen>
+    <dimen name="normal_72dp">58dp</dimen>
+    <dimen name="normal_65dp">52dp</dimen>
+    <dimen name="normal_62dp">50dp</dimen>
+    <dimen name="normal_60dp">48dp</dimen>
+    <dimen name="normal_55dp">44dp</dimen>
+    <dimen name="normal_50dp">40dp</dimen>
+    <dimen name="normal_48dp">38dp</dimen>
+    <dimen name="normal_45dp">36dp</dimen>
+    <dimen name="normal_44dp">35dp</dimen>
+    <dimen name="normal_40dp">32dp</dimen>
+    <dimen name="normal_36dp">29dp</dimen>
+    <dimen name="normal_34dp">27dp</dimen>
+    <dimen name="normal_32dp">25dp</dimen>
+    <dimen name="normal_30dp">24dp</dimen>
+    <dimen name="normal_28dp">22dp</dimen>
+    <dimen name="normal_minus28dp">-22dp</dimen>
+    <dimen name="normal_25dp">20dp</dimen>
+    <dimen name="normal_24dp">18dp</dimen>
+    <dimen name="normal_21dp">16dp</dimen>
+    <dimen name="normal_20dp">16dp</dimen>
+    <dimen name="normal_18dp">14dp</dimen>
+    <dimen name="normal_16dp">13dp</dimen>
+    <dimen name="normal_15dp">12dp</dimen>
+    <dimen name="normal_14dp">11dp</dimen>
+    <dimen name="normal_13dp">10dp</dimen>
+    <dimen name="normal_12dp">10dp</dimen>
+    <dimen name="normal_11dp">9dp</dimen>
+    <dimen name="normal_10dp">8dp</dimen>
+    <dimen name="normal_9dp">7dp</dimen>
+    <dimen name="normal_8dp">6dp</dimen>
+    <dimen name="normal_7dp">5dp</dimen>
+    <dimen name="normal_5dp">4dp</dimen>
+    <dimen name="normal_4dp">3dp</dimen>
+    <dimen name="normal_1dp">1dp</dimen>
+
+    <dimen name="normal_minus_5dp">-4dp</dimen>
+    <dimen name="normal_minus_16dp">-13dp</dimen>
+
+    <dimen name="normal_48sp">38sp</dimen>
+    <dimen name="normal_44sp">35sp</dimen>
+    <dimen name="normal_34sp">27sp</dimen>
+    <dimen name="normal_32sp">25sp</dimen>
+    <dimen name="normal_30sp">24sp</dimen>
+    <dimen name="normal_28sp">26sp</dimen>
+    <dimen name="normal_26sp">24sp</dimen>
+    <dimen name="normal_25sp">20sp</dimen>
+    <dimen name="normal_24sp">20sp</dimen>
+    <dimen name="normal_22sp">20sp</dimen>
+    <dimen name="normal_20sp">18sp</dimen>
+    <dimen name="normal_18sp">16sp</dimen>
+    <dimen name="normal_17sp">15sp</dimen>
+    <dimen name="normal_16sp">14sp</dimen>
+    <dimen name="normal_15sp">13sp</dimen>
+    <dimen name="normal_14sp">12sp</dimen>
+    <dimen name="normal_13sp">12sp</dimen>
+    <dimen name="normal_12sp">11sp</dimen>
+    <dimen name="normal_11sp">11sp</dimen>
+    <dimen name="normal_10sp">10sp</dimen>
+    <dimen name="normal_9sp">9sp</dimen>
+    <dimen name="normal_6dp">6dp</dimen>
+    <dimen name="normal_3dp">3dp</dimen>
+
+    <dimen name="text_size_button_prescription">10sp</dimen>
+
+
+</resources>

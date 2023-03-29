@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EasyWallet" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand_accent_primary</item>
+        <item name="colorPrimaryDark">@color/brand_accent_dark</item>
+        <item name="colorAccent">@color/brand_accent</item>
+
+    </style>
+
+    <style name="Theme.EasyWallet" parent="Base.Theme.EasyWallet">
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:windowLightNavigationBar" >true</item>
+        <item name="android:windowLightStatusBar" >true</item>
+    </style>
+
+</resources>
