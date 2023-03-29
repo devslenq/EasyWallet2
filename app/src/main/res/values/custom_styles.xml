@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="HeaderText">
+        <item name="android:textSize">@dimen/normal_22sp</item>
+        <item name="android:textColor">@color/brand_accent_primary_text</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="BodyText">
+        <item name="android:textSize">@dimen/normal_18sp</item>
+        <item name="android:textColor">@color/brand_accent_primary_text_secondary</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+</resources>

@@ -3,4 +3,14 @@
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
     <string name="welcome">Welcome!</string>
+
+
+    <string name="welcome_title_1">Экономь умнее с нашим приложением!</string>
+    <string name="welcome_body_1">Здесь вы сможете следить за своими расходами и доходами, планировать свой бюджет и экономить деньги. Начните экономить умнее уже сегодня с нами!</string>
+
+    <string name="welcome_title_2">Контролируйте свои финансы</string>
+    <string name="welcome_body_2">Мы поможем вам составить бюджет, который позволит вам эффективно распределить свои финансовые ресурсы и достигать ваших финансовых целей.</string>
+
+    <string name="welcome_title_3">Поставьте финансовые цели и добейтесь успеха</string>
+    <string name="welcome_body_3">Вы можете создавать бюджетные планы и отслеживать свой прогресс, чтобы быть уверенными в том, что вы на пути к достижению желаемых результатов.</string>
 </resources>
